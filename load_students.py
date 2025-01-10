@@ -2,7 +2,7 @@ import csv
 from students.models import Student
 
 def load_students():
-    with open('database.csv', 'r', encoding='utf-8') as file:
+    with open('database.csv', 'r', encoding='cp1254') as file:
         reader = csv.DictReader(file)
         for row in reader:
             Student.objects.create(
