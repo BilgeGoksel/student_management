@@ -1,5 +1,5 @@
-# student_management
-# YZM311 Veri Tabanı Yönetim Sistemi Proje Ödevi
+
+# Öğrenci Veritabanı Yönetim Sistemi
 
 Bu proje, Öğrenci Not Takip Sistemi'nin geliştirilmesi amacıyla hazırlanmıştır. Projede, Django framework'ü kullanılmış ve veritabanı yönetimi için SQLite tercih edilmiştir. Projenin temel amacı, öğrenci notlarının yüklenmesi, listelenmesi ve güncellenmesini sağlamaktır.
 
